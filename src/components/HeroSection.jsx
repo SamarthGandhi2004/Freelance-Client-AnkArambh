@@ -20,8 +20,8 @@ const HeroSection = () => {
           <div className="bg-red-800 text-white px-6 py-3 rounded-full hover:bg-red-900 transition-colors">
               <span className="font-medium">
                 Start your journey today! Call Now: {' '}
-                <a href="tel:+919205078728" className="hover:underline text-yellow-400 text-xl font-medium ">
-                  +91 9205078728
+                <a  href="tel:+91 9873423251" className="hover:underline text-yellow-400 text-xl font-medium ">
+                  +91 9873423251
                 </a>
               </span>
             </div>

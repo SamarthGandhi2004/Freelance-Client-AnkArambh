@@ -66,7 +66,8 @@ const AboutUs = () => {
             <div className="bg-yellow-100 p-4 rounded-lg">
               <p className="text-gray-800">
                 Have a question? Ask me on{' '}
-                <a href="#" className="text-red-800 hover:underline">Twitter</a>
+                <a   href="https://www.instagram.com/ankarambh/#" className="text-red-800 hover:underline " target="_blank"
+                rel="noopener noreferrer" >Instagram</a>
               </p>
             </div>
           </div>

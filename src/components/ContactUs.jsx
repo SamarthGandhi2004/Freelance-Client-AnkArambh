@@ -62,10 +62,10 @@ const ContactUs = () => {
               <span className="font-medium">
                 Start your journey today! <br />Call Now:{' '}
                 <a
-                  href="tel:+919205078728"
+                  href="tel:+91 9873423251"
                   className="hover:underline text-yellow-400 text-xl font-medium"
                 >
-                  +91 9205078728
+                  +91 9873423251
                 </a>
               </span>
             </div>

@@ -40,7 +40,7 @@
 //             <Link to="faqs" smooth={true} duration={500}>FAQs</Link>
 //           </li>
 //           <li className="text-black uppercase hover:text-blue-600 font-bold">
-//             <a href="tel:+919205078728">Call Now +91 9205078728</a>
+//             <a href="tel:+919205078728">Call Now +91 9873423251</a>
 //           </li>
 //         </ul>
 //       </div>
@@ -67,7 +67,7 @@
 //           <Link to="faqs" smooth={true} duration={500} onClick={toggleMenu}>FAQs</Link>
 //         </li>
 //         <li className="text-black uppercase hover:text-blue-600 font-bold">
-//           <a href="tel:+919205078728" onClick={toggleMenu}>Call Now +91 9205078728</a>
+//           <a href="tel:+919205078728" onClick={toggleMenu}>Call Now +91 9873423251</a>
 //         </li>
 //       </ul>
 //     </nav>
@@ -100,8 +100,8 @@ const Navbar = () => {
               </li>
             ))}
             <li className="ml-4">
-              <a href="tel:+919205078728" className="bg-red-800 text-yellow-400 px-4 py-2 rounded-lg text-sm hover:bg-red-700 transition-colors  ">
-               <span className="text-white font-medium"> Call Now : </span>+91 9205078728
+              <a  href="tel:+91 9873423251" className="bg-red-800 text-yellow-400 px-4 py-2 rounded-lg text-sm hover:bg-red-700 transition-colors  ">
+               <span className="text-white font-medium"> Call Now : </span>+91 9873423251
               </a>
             </li>
           </ul>
@@ -130,8 +130,8 @@ const Navbar = () => {
                 </li>
               ))}
               <li className="pt-4 border-t">
-                <a href="tel:+919205078728" className="block text-red-800 font-semibold hover:text-red-700">
-                  Call Now +91 9205078728
+                <a  href="tel:+91 9873423251" className="block text-red-800 font-semibold hover:text-red-700">
+                  Call Now +91 9873423251
                 </a>
               </li>
             </ul>
