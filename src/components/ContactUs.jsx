@@ -56,6 +56,20 @@ const ContactUs = () => {
                   className="w-20  object-contain"
                 />
               </a>
+
+              {/* WhatsApp */}
+              <a
+                href="https://wa.me/919873423251"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-600 hover:text-red-800 transition-colors"
+              >
+                <img
+                  src="https://cdn-icons-png.flaticon.com/512/124/124034.png"
+                  alt="WhatsApp"
+                  className="w-10 h-10 object-contain"
+                />
+              </a>
             </div>
 
             <div className="bg-red-800 text-white px-6 py-3 rounded-full hover:bg-red-900 transition-colors">
